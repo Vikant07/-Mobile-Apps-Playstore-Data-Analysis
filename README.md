@@ -1,0 +1,1 @@
+Our Mobile Apps Playstore Data Analysis has shed light on the mobile app landscape's trends and user behaviours. Through historical data exploration, we've identified Android version preferences, popular app categories, and highly rated apps. These insights offer valuable guidance for strategic decision-making and user-focused app development.
